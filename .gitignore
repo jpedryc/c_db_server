@@ -1,4 +1,4 @@
 .clangd
 obj/*
 bin/*
-
+database.db
